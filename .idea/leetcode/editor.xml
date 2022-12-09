@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[1353]最多可以参加的会议数目.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/doc/content/[1353]最多可以参加的会议数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1353" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[1353]最多可以参加的会议数目.go" />
+              <option name="titleSlug" value="maximum-number-of-events-that-can-be-attended" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[40]组合总和 II.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/doc/content/[40]组合总和 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn40" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../Leetcode/leetcode/editor/cn/[40]组合总和 II.go" />
+              <option name="titleSlug" value="combination-sum-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

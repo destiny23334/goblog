@@ -1,0 +1,12 @@
+server:
+  # 开发模式debug
+  appMode: debug
+  httpPort: :3000
+
+database:
+  db: mysql
+  host: localhost
+  port: 3306
+  user: root
+  passwd: 888888
+  name: blog
